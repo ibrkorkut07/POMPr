@@ -10,6 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -20,6 +27,79 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\POMPr\src\test\java\pages" />
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\POMPr\src\test\java\tests" />
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\POMPr\src\test\java\tests\smokeTest" />
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\POMPr\src\test\java\tests\day17" />
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\POMPr\src\test\java\utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C02_PageIlkClass.test1">
+    <configuration name="C01_DriverIlkTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day16" />
+      <option name="MAIN_CLASS_NAME" value="tests.day16.C01_DriverIlkTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_DriverIlkTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day16" />
+      <option name="MAIN_CLASS_NAME" value="tests.day16.C01_DriverIlkTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_PageIlkClass.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day16" />
+      <option name="MAIN_CLASS_NAME" value="tests.day16.C02_PageIlkClass" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C02_PageIlkClass.test1" />
+        <item itemvalue="TestNG.C01_DriverIlkTest.test2" />
+        <item itemvalue="TestNG.C01_DriverIlkTest.test01" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
