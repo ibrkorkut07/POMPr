@@ -20,10 +20,13 @@ public class C04_SingletonPattern {
 
         //Driver driver3=new Driver();
 
+
         // Singleton pattern kabul gormus bir pattern'dir
         // amac bir class'dan obje uretilmemesini saglamaktir
         // bunun icin singleton patter'de koruyacagim,iz class'da
         // parametresiz bir constructor olusturur ve
         // bu constructor'i private yapariz
+
     }
+
 }

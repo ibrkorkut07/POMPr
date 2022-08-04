@@ -1,5 +1,6 @@
 package utilities;
 
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -23,10 +24,15 @@ public class ConfigReader {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+
     }
+
 
     public static String getProperty(String key){
 
         return properties.getProperty(key);
     }
+
+
 }

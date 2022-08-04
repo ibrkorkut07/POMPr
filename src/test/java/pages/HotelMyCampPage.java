@@ -7,13 +7,10 @@ import utilities.ConfigReader;
 import utilities.Driver;
 
 public class HotelMyCampPage {
-
     public HotelMyCampPage(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
 
-    @FindBy (xpath = "//a[text()='Log in']")
-    public WebElement myHotelCampLoginElement;
 
     @FindBy(xpath = "//a[text()='Log in']")
     public WebElement ilkLoginLinki;
@@ -26,7 +23,6 @@ public class HotelMyCampPage {
 
     @FindBy(xpath = "//input[@id='btnSubmit']")
     public WebElement loginButonu;
-
 
     @FindBy(xpath = "//div[@class='validation-summary-errors']")
     public WebElement girisYapilamadiYaziElementi;
@@ -52,6 +48,8 @@ public class HotelMyCampPage {
     @FindBy(xpath = "//button[@id='btnSubmit']")
     public WebElement addHotelSaveButonu;
 
+
+
     public void bekle(int saniye){
         try {
             Thread.sleep(saniye*1000);
@@ -67,4 +65,6 @@ public class HotelMyCampPage {
         passwordBox.sendKeys(ConfigReader.getProperty("HMCValidPassword"));
         loginButonu.click();
     }
+
+
 }

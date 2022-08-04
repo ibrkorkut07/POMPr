@@ -3,7 +3,10 @@ package tests.day16;
 import org.openqa.selenium.Keys;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import pages.AmazonPage;
 import utilities.Driver;
+
+import java.util.concurrent.locks.AbstractOwnableSynchronizer;
 
 public class C02_PageIlkClass {
 

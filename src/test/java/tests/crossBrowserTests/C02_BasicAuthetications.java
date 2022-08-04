@@ -1,4 +1,3 @@
-/*
 package tests.crossBrowserTests;
 
 import org.openqa.selenium.By;
@@ -31,5 +30,3 @@ import utilities.TestBaseCross;
             Assert.assertTrue(congratMesajElementi.isDisplayed());
         }
 }
-
-*/

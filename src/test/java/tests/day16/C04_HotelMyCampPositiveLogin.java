@@ -4,7 +4,6 @@ import org.testng.annotations.Test;
 import pages.HotelMyCampPage;
 import utilities.Driver;
 
-/*
 public class C04_HotelMyCampPositiveLogin {
     @Test(groups = {"miniRegression", "smoke"})
     public void pozitifLoginTesti(){
@@ -26,4 +25,3 @@ public class C04_HotelMyCampPositiveLogin {
         //	Degerleri girildiginde sayfaya basarili sekilde girilebildigini test et
     }
 }
-*/

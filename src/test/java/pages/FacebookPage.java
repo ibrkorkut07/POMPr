@@ -13,6 +13,7 @@ public class FacebookPage {
     @FindBy(xpath = "//button[@title='Allow All Cookies']")
     public WebElement facebookCookies;
 
+
     @FindBy(name="email")
     public WebElement emailKutusu;
 
