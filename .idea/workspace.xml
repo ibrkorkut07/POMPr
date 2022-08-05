@@ -20,6 +20,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2CaXKHT90NvXTkHenR8byIxRqAW" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -39,6 +46,17 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.C02_PageIlkClass.test1">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C01_DriverIlkTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POMPr" />
       <extension name="coverage">
